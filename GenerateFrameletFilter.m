@@ -29,4 +29,4 @@ elseif frame==3      %Piecewise Cubic Framelet
     R{5}=[1 -4 6 -4 1]/16;
     R{6}='ccccc';
 end
-
+ 
