@@ -40,4 +40,4 @@ end
 %         end
 %     end
 % end
-% Dec=[Dec;kDec];
+% Dec=[Dec;kDec]; 
