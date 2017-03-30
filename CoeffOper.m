@@ -10,7 +10,7 @@ end
 if strcmp(op,'*+-n') || strcmp(op,'hard+') || strcmp(op,'-n')
     A = 0; B = 0 ; C=0; 
 end
-
+ 
 for ki=1:Level
     if strcmp(op,'vs') || strcmp(op,'v0')
         vec=0;
