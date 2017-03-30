@@ -42,7 +42,7 @@ step=2^(L-1);
 % lker=floor(length(ker)/2);
 % C=conv2(Ae,ker,'valid');
 % %====================================================
-
+ 
 %====another implementation=========================
 ker=zeros(step*(nM-1)+1,1);
 ker(1:step:step*(nM-1)+1,1)=M;
